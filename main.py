@@ -1,3 +1,4 @@
+#RRRRRR new vetka
 # Вариант 6
 Cv = 100000
 Tv = 15
