@@ -1,3 +1,4 @@
+# XD XD XD X XD XD XD XD
 # Вариант 6
 Cv = 100000
 Tv = 15
@@ -75,12 +76,10 @@ plt.show()
 table1 = list(zip(Y, Am_lst))
 table2 = list(zip(Y, Am_lst_2))
 tfame = pd.DataFrame(table1, columns=['Y', 'Am_lst'])
-tfame2 = pd.DataFrame(table2, columns=['Y','Am_lst_2'])
+tfame2 = pd.DataFrame(table2, columns=['Y', 'Am_lst_2'])
 
 plt.bar(tfame['Y'], tfame['Am_lst'])
 plt.show()
 
 plt.bar(tfame2['Y'], tfame2['Am_lst_2'])
 plt.show()
-
-
